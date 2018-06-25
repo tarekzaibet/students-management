@@ -3,7 +3,7 @@
 This app is intented to manage students of an engineering school. 
 
 
-## Funcitonalities 
+## Functionalities 
 
 Create students and add them to the right orientation 
 Automaticaly removes student that fail twice
