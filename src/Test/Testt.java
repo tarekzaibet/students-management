@@ -57,10 +57,10 @@ public class Testt {
 		
 		//création des éleves//
 		
-		EleveFI prep = new EleveFI("ouaih",d1,pp,prr,1);
-		EleveFI prepa = new EleveFI("zoo",d1,pp,prr,1);
-		EleveFI prep2 = new EleveFI("oh",d1,pp,prr,1);
-		EleveFI prepa2 = new EleveFI("zo",d1,pp,prr,1);
+		EleveFI prep = new EleveFI("test1",d1,pp,prr,1);
+		EleveFI prepa = new EleveFI("test2",d1,pp,prr,1);
+		EleveFI prep2 = new EleveFI("test3",d1,pp,prr,1);
+		EleveFI prepa2 = new EleveFI("test4",d1,pp,prr,1);
 		
 		EleveFI k = new EleveFI("tda",d1,cl,pr,3);
 		EleveFI c = new EleveFI("br",d1,cl,pr,3);
